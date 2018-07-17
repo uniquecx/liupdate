@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+ <mappers>
+  	<!-- <mapper resource="com/ct/mapper/BookMapper.xml"></mapper>
+    <mapper resource="com/ct/mapper/TypeMapper.xml"></mapper>
+    <mapper resource="com/ct/mapper/ManagerMapper.xml"></mapper>
+     <mapper resource="com/ct/mapper/MenuMapper.xml"></mapper>
+       <mapper resource="com/ct/mapper/ReaderMapper.xml"></mapper>
+        <mapper resource="com/ct/mapper/BorrowMapper.xml"></mapper>
+        <mapper resource="com/ct/mapper/ReadertypeMapper.xml"></mapper> -->
+        <mapper resource="com/ct/mapper/UserMapper.xml"></mapper>
+ </mappers>
+</configuration>
